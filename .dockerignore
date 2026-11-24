@@ -1,0 +1,10 @@
+.git
+.github
+target
+calculadora
+docs
+*.md
+!README.md
+.idea
+.vscode
+*.iml
